@@ -1,0 +1,2 @@
+# HW2MNIST
+MNIST 手寫辨識
